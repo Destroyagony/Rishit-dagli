@@ -3,7 +3,8 @@ Please consider starring the repo if you find this useful in any manner
 or use it.
 -->
 
-<a href="https://www.rishit.tech"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/header_image.png" width="900"></a>
+<a href="https://www.rishit.tech"><img src="![destroyagony](https://github.com/Destroyagony/Rishit-dagli/assets/147639560/4b1eff51-c8b0-4e0b-92a7-233da9a451b5)
+" width="900"></a>
  
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
 
